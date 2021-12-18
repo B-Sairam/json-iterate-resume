@@ -1,0 +1,35 @@
+{
+    "about":{
+        "name":"sairam",
+        "dob":"08-05-02002",
+        "professional":"front-end-developer",
+        "degree":"B.tech (IT)",
+        "email":"bbsairam77@gmail.com",
+        "phone-no":99994999,
+        "portfolio":"www.sai24.in",
+        "city":"chennai"
+        
+
+    },
+    "education": 
+        {
+          "school": "Nehru boys.hr.sec.school",
+          "area": "palavanthagal",
+          "college":"Sri ramanujar engineering college",
+          "studyType": "Engineering",
+          "startDate": 2019,
+          "endDate": 2023,
+          "gpa": 8.1,
+          "courses": "Information Technology"
+        },
+
+     "work-experience":{
+        "office":" Indusind Bank",
+        "experience":"2020-currently",
+        "shift":"night"
+     },
+
+     "skills":["react","javascript","boostarp","css","html"]
+
+      
+}
